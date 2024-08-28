@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{E4315F3F-F3C3-4461-AEC5-2088E5F31036}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClinicInfo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Bookings/Index.cshtml">
+    <Files>
+      <File FileName="Controllers/BookingsController.cs" Line="140" Column="23" IsPinned="True" />
+      <File FileName="Controllers/PatientsController.cs" />
+      <File FileName="Controllers/DoctorVisitsController.cs" />
+      <File FileName="Models/DoctorVisit.cs" />
+      <File FileName="Views/Bookings/Create.cshtml" />
+      <File FileName="Views/Bookings/Index.cshtml" Line="14" Column="15" />
+      <File FileName="Program.cs" />
+      <File FileName="Views/DoctorVisits/Delete.cshtml" />
+      <File FileName="Models/Patient.cs" />
+      <File FileName="Views/Doctors/Create.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Patients/Index.cshtml" />
+      <File FileName="Views/Doctors/Index.cshtml" />
+      <File FileName="Models/ClinicViewModel/DoctorIndexData.cs" />
+      <File FileName="Controllers/DoctorsController.cs" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Data/ClinicContext.cs" />
+      <File FileName="Models/Doctor.cs" />
+      <File FileName="Views/DoctorVisits/Index.cshtml" />
+      <File FileName="Views/Doctors/Edit.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClinicInfo" expanded="True">
+            <Node name="ClinicInfo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ClinicViewModel" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Bookings" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Doctors" expanded="True" />
+                <Node name="DoctorVisits" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Patients" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
